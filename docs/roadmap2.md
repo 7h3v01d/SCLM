@@ -1,4 +1,4 @@
-Semantic Core Language Model (SCLM)
+# Semantic Core Language Model (SCLM)
 Introduction
 The Semantic Core Language Model (SCLM) is a conversational AI built in Python that explores a unique architectural approach to Natural Language Processing (NLP). The core concept of this project is the separation of semantic meaning from grammatical expression.
 
@@ -111,5 +111,6 @@ When a user states a subjective preference (e.g., "I like dogs better than cats"
 Develop a Safety-Oriented Response Rule:
 
 Upgrade the ResponseEngine with a crucial new protocol: when asked a subjective question, it must first search for objective facts. Finding none, it may then search for opinions but must attribute the source in its response.
+
 
 Expected Outcome: The AI will not adopt user opinions as its own. It will respond to subjective questions safely and truthfully, for example: "I don't have an objective answer
