@@ -1,5 +1,21 @@
 # Semantic Core Language Model (SCLM)
 
+⚠️ **LICENSE & USAGE NOTICE — READ FIRST**
+
+This repository is **source-available for private technical evaluation and testing only**.
+
+- ❌ No commercial use  
+- ❌ No production use  
+- ❌ No academic, institutional, or government use  
+- ❌ No research, benchmarking, or publication  
+- ❌ No redistribution, sublicensing, or derivative works  
+- ❌ No independent development based on this code  
+
+All rights remain exclusively with the author.  
+Use of this software constitutes acceptance of the terms defined in **LICENSE.txt**.
+
+---
+
 **SCLM** is an experimental conversational AI written in Python that explores a novel, interpretable approach to natural language understanding.  
 
 Instead of relying on end-to-end neural architectures, SCLM explicitly separates **semantic meaning** from **grammatical surface form**. User input is first deconstructed into a language-agnostic "core thought" (a structured triple-based representation), then progressively enriched with layers of nuance, tone, context, and world knowledge before a thoughtful response is synthesized.
