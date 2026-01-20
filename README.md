@@ -119,4 +119,27 @@ Its value lies in:
 python sclm_final_interactive.py
 Type help, bye, or just start chatting.
 ```
-Contributions, alternative parsers, richer relation extractors, and reasoning module ideas are very welcome.
+
+## Contribution Policy
+
+Feedback, bug reports, and suggestions are welcome.
+
+You may submit:
+
+- Issues
+- Design feedback
+- Pull requests for review
+
+However:
+
+- Contributions do not grant any license or ownership rights
+- The author retains full discretion over acceptance and future use
+- Contributors receive no rights to reuse, redistribute, or derive from this code
+
+---
+
+License
+This project is not open-source.
+
+It is licensed under a private evaluation-only license.
+See LICENSE.txt for full terms.
